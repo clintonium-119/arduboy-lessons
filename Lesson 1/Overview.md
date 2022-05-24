@@ -16,7 +16,7 @@ An arduino board is a very small computer known as a microcontroller.
 
 >Arduino is a key tool to learn new things. Anyone - children, hobbyists, artists, programmers - can start tinkering just following the step by step instructions of a kit, or sharing ideas online with other members of the Arduino community.
 
-## What is electricity`
+## What is electricity?
 
 Electricity, at it's most basic level, is a flow of electrons from one place to another.  This is called 'current'. In order to power things with electrical current, electricity needs to flow in a circuit, going round and round.  If the circuit is interrupted, the electrons can no longer flow and provide it's power.
 
@@ -37,6 +37,6 @@ Buttons are a type of switch.  They work in a similar manner to a light switch. 
 
 What is different about a button is that it's a 'momentary' switch.  This means it's only in the 'on' state when held down, and as soon as you release it, it goes back to the 'off' state.
 
-Games, for instance, listen for these transistions between on and off electrical states to know when a button has been pressed or released, and react accordingly
+Games, for instance, listen for these transistions between on and off electrical states to know when a button has been pressed or released, and react accordingly.
 
 

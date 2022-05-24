@@ -31,6 +31,12 @@ The first thing we'll to do is set up the Arduino IDE, which is the software we 
 
 Pick the appropriate system (likely Windows or Mac), download the installation package, and follow the installation instructions.
 
+## What is breadboard prototyping?
+
+Prototyping is the process of making an early revision of a product or concept to get a product vision to a working state.  Usually, 'how it looks' is not important at all at this stage.  It's about validating that a design is sound before embarking on creating a more polished product.
+
+When working with microelectronics, especially for beginners, a breadboard is commonly used since it allows a 'plug and play' approach to making various electrical connections, rather than traditional solder joints.
+
 [Buttons Overview](https://arduinogetstarted.com/tutorials/arduino-button)
 
 Buttons are a type of switch.  They work in a similar manner to a light switch.  When the switch is off, the circuit is interrupted, and the electricity flow stops, causing the light to go off.  If the switch is turned on, the power flow resumes and the light 'lights' again.
